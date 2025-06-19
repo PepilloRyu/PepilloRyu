@@ -11,7 +11,7 @@ Conocimiento en electrónica y sistemas digitales 🤖
 
 Cada día aprendiendo algo nuevo ❤️
 
-Contáctame : pepilloryu@gmail.com
+Contáctame : josemtzh1620@hotmail.com
 
 
 ---
