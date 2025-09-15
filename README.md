@@ -42,7 +42,6 @@ Contáctame : josemtzh1620@hotmail.com
 | Herramienta / Paradigma | Icono |
 |------------------------|:-----:|
 | MySQL                  | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) |
-| NetBeans               | <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40"/> |
 | Packet Tracer          | <img src="https://www.cisco.com/favicon.ico" alt="Cisco" width="40"/> |
 | GitHub                 | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40"/> |
 | Visual Studio Code     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/> |
