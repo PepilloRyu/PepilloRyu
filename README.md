@@ -5,8 +5,6 @@ Soy studiante de Ingeniería en Sistemas Computacionales. ❤️
 
 Interesado en ciberseguridad y redes. 🐳
 
-Actualmente realizo cursos de YouTube para seguir aprendiendo y compartiendo conocimientos. 🤠
-
 Conocimiento en electrónica y sistemas digitales 🤖
 
 Cada día aprendiendo algo nuevo ❤️
