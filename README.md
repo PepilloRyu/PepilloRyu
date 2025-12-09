@@ -5,8 +5,6 @@ Soy studiante de Ingeniería en Sistemas Computacionales. ❤️
 
 Interesado en ciberseguridad y redes. 🐳
 
-Conocimiento en electrónica y sistemas digitales 🤖
-
 Cada día aprendiendo algo nuevo ❤️
 
 Contáctame : josemtzh1620@hotmail.com
@@ -28,10 +26,10 @@ Contáctame : josemtzh1620@hotmail.com
 
 | Lenguaje | Icono |
 |----------|:-----:|
-| Java     | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) |
 | SQL      | ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) |
 | C        | ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) |
 | Python   | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) |
+| C#       | ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/csharp-original.svg) |
 
 ---
 
