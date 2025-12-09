@@ -29,7 +29,7 @@ Contáctame : josemtzh1620@hotmail.com
 | SQL      | ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) |
 | C        | ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) |
 | Python   | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) |
-| C#       | ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/csharp-original.svg) |
+| C#       | ![C#]<img src="URL_DEL_LOGO" alt="Logo de C#" width="50" height="50"/> |
 
 ---
 
