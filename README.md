@@ -33,11 +33,12 @@ Contáctame : josemtzh1620@hotmail.com
 
 ---
 
-## 🛠️ Herramientas y Paradigmas
+## 🛠️ Herramientas
 
 | Herramienta / Paradigma | Icono |
 |------------------------|:-----:|
 | MySQL                  | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) |
+| SQLServer              | <img src="https://imgs.search.brave.com/JTlPwJ1dWD1cx3GIXYdojZCA2ntEY7ZDaXCDabcSj1E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL21pY3Jv/c29mdC1zcWwtc2Vy/dmVyNDUyOS5qcGc" alt="SQL Server" width="40"/>
 | Packet Tracer          | <img src="https://imgs.search.brave.com/ZgUA0b9Su5I_wtNcQXRk4rMj3wd8OD4yCHy-_CMYFGg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/emVwcGVsaW51eC5l/cy93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wNi9sb2dvX3Bh/Y2tldF90cmFjZXIu/cG5n" alt="Cisco" width="40"/> |
 | GitHub                 | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40"/> |
 | Visual Studio Code     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/> |
@@ -52,11 +53,6 @@ Contáctame : josemtzh1620@hotmail.com
 | Ubuntu            | <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="40"/> |
 | Kali Linux        | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40"/> |
 
-
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Reemplaza esto con tus posts reales o elimina si no aplica -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
