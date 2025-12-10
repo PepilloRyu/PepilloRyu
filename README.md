@@ -3,7 +3,7 @@
 
 Soy studiante de Ingeniería en Sistemas Computacionales. ❤️
 
-Interesado en ciberseguridad y redes. 🐳
+Interesado ciberseguridad y redes. 🐳
 
 Cada día aprendiendo algo nuevo ❤️
 
@@ -38,7 +38,7 @@ Contáctame : josemtzh1620@hotmail.com
 | Herramienta / Paradigma | Icono |
 |------------------------|:-----:|
 | MySQL                  | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) |
-| Packet Tracer          | <img src="https://www.cisco.com/favicon.ico" alt="Cisco" width="40"/> |
+| Packet Tracer          | <img src="https://imgs.search.brave.com/ZgUA0b9Su5I_wtNcQXRk4rMj3wd8OD4yCHy-_CMYFGg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/emVwcGVsaW51eC5l/cy93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wNi9sb2dvX3Bh/Y2tldF90cmFjZXIu/cG5n" alt="Cisco" width="40"/> |
 | GitHub                 | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40"/> |
 | Visual Studio Code     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/> |
 
