@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size:3em;"> 🀄Hola, ¡bienvenido soy PepilloRyu!🀄</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Cybersecurity;Network;Python+Developer;+%F0%9F%A4%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Cybersecurity;Network;+%F0%9F%A4%93" alt="Typing SVG" />
 </p>
 
 Soy studiante de Ingeniería en Sistemas Computacionales. ❤️
