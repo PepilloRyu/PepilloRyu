@@ -72,10 +72,11 @@ C · Python · SQL
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="50" />
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+  https://imgs.search.brave.com/ZgUA0b9Su5I_wtNcQXRk4rMj3wd8OD4yCHy-_CMYFGg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/emVwcGVsaW51eC5l/cy93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wNi9sb2dvX3Bh/Y2tldF90cmFjZXIu/cG5n
 </p>
 
 ```txt
-MySQL · GitHub · VS Code · Cisco Packet Tracer · SQL Server 
+MySQL · SQL Server · GitHub · VS Code · Cisco Packet Tracer 
 ```
 
 ---
