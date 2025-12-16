@@ -68,8 +68,6 @@ C · Python · SQL
 ## 🛠️ Herramientas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="50" />
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" />
@@ -83,6 +81,11 @@ MySQL · GitHub · VS Code · Cisco Packet Tracer · SQL Server
 ---
 
 ## 🖥️ Sistemas Operativos
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50" />
+</p>
 
 ```bash
 ✔ Windows
