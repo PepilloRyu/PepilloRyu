@@ -17,7 +17,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=22c55e" />
-  <img src="https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=22c55e" />
   <img src="https://img.shields.io/badge/Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=22c55e" />
   <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=22c55e" />
 </p>
@@ -78,8 +77,7 @@ C · Python · SQL
 </p>
 
 ```txt
-Linux · Kali Linux · MySQL · GitHub · VS Code
-Cisco Packet Tracer · SQL Server
+MySQL · GitHub · VS Code · Cisco Packet Tracer · SQL Server 
 ```
 
 ---
@@ -88,8 +86,7 @@ Cisco Packet Tracer · SQL Server
 
 ```bash
 ✔ Windows
-✔ Ubuntu
-✔ Kali Linux
+✔ Linux(Ubuntu, Kali Linux)
 ```
 
 ---
@@ -106,8 +103,4 @@ Cisco Packet Tracer · SQL Server
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=120&section=footer" />
-</p>
-
-<p align="center">
-  <sub>"Talk is cheap. Show me the packets."</sub>
 </p>
