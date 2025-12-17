@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=22C55E&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Networking+Enthusiast;CTF+Learner;Always+Hacking+%26+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=22C55E&center=true&vCenter=true&width=600&lines=Cybersecurity;Networking;CTF+Learner;" />
 </p>
 
 <p align="center">
