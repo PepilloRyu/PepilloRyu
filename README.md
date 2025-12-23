@@ -16,8 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=22c55e" />
-  <img src="https://img.shields.io/badge/Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/Cibersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=22c55e" />
   <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=22c55e" />
 </p>
 
