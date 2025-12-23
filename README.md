@@ -8,7 +8,7 @@
 
 <h3 align="center">
   Ingeniería en Sistemas Computacionales<br>
-  <span style="color:#22c55e;">Ciberseguridad · Redes · Hacking</span>
+  <span style="color:#22c55e;">Ciberseguridad · Redes </span>
 </h3>
 
 <p align="center">
